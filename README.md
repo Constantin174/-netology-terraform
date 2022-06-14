@@ -1,1 +1,1 @@
-# -netology-terraform
+# netology-terraform
